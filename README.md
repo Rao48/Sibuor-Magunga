@@ -1,2 +1,2 @@
-# Sibuor-Magunga
-Education test repo
+# test-repo
+This is a test repo
